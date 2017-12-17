@@ -1,5 +1,6 @@
 # RasPiWorkshop2017
 <p>Raspberry Pi Workshop im Rahmen der StartApp-Tagung im Medienzentrum München des JFF - Jugend Film Fernsehen e. V.</p>
+
 ![Alt text](Slides/Overview.png?raw=true "Overview")
 
 In der Game-Jam-Phase dieses Workshops haben wir eine Quiz-Show entwickelt. Jede Gruppe hat eine Teil-Aufgabe übernommen und am Ende konnten wir unser kleines Quiz vor Publikum veranstalten. Die Scratch-Vorlagen und Ergebnisse der Gruppen werden hier demnächst veröffentlicht.
