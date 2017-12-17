@@ -1,5 +1,6 @@
 # RasPiWorkshop2017
-Raspberry Pi Workshop im Rahmen der StartApp-Tagung im Medienzentrum München des JFF - Jugend Film Fernsehen e. V.
+Raspberry Pi Workshop im Rahmen der StartApp-Tagung im Medienzentrum München des JFF - Jugend Film Fernsehen e. V.<br>
+
 ![Alt text](Slides/Overview.png?raw=true "Title")
 
 ## Einrichtung des Raspberry Pi
