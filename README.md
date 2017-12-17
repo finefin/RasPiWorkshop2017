@@ -8,7 +8,7 @@ Es gibt viele Linux-Distributionen, die für unterschiedliche Aufgaben genutzt w
 
 Das Ganze ist sehr einfach: Paket entpacken, auf die SD-Karte kopieren, RasPi mit SD-Karte starten und den Anweisungen auf dem Bildschirm folgen. Eine detaillierte Anleitung für NOOBS gibt's hier: https://www.raspberrypi.org/learning/software-guide/
 
-Für Eltern ist die Distributions KANO interessant: http://developers.kano.me/downloads/ - dieses Betriebssystem ist speziell für Kinder ausgelegt und vermittelt Programmierkenntnisse auf spielerische Art und Weise. Für die Arbeit an Schulen oder in Workshops empfehle ich aber das schlichtere und übersichtliche Raspbian.
+Für Eltern ist die Distribution KANO interessant: http://developers.kano.me/downloads/ - dieses Betriebssystem ist speziell für Kinder ausgelegt und vermittelt Programmierkenntnisse auf spielerische Art und Weise. Für die Arbeit an Schulen oder in Workshops empfehle ich aber das schlichtere und weniger verspielte Raspbian.
 
 
 ## Entwickeln mit Scratch 2.0
@@ -18,3 +18,4 @@ Auf dem Raspberry Pi gibt es ein Addon für die Nutzung der GPIO-Leiste, das wir
 https://www.raspberrypi.org/blog/scratch-2-raspberry-pi/
 
 ## Eingabegeräte, Buttons, Sensoren
+![Alt text](Slides/Button.png?raw=true "Title")
