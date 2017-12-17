@@ -18,4 +18,7 @@ Auf dem Raspberry Pi gibt es ein Addon für die Nutzung der GPIO-Leiste, das wir
 https://www.raspberrypi.org/blog/scratch-2-raspberry-pi/
 
 ## Eingabegeräte, Buttons, Sensoren
+Um einen Sensor auszulesen benötigen wir zwei Dinge: ein stabiles Signal und eine Schnittstelle zu unserem Programm. Die Schnittstelle ist die GPIO-Leiste unseres RasPis. Der Knackpunkt ist das "stabile Signal"...
+
+Die einfachste Möglichkeit, einen Button über die GPIO-Leiste des Raspberry Pi auszulesen, ist die Verwendung des internen Pullup-Widerstandes. 
 ![Alt text](Slides/Button.png?raw=true "Title")
